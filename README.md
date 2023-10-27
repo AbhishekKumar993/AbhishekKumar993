@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate frontend developer from
-<br>Indian Institute of Information Technology Una(H.P) </h3>
 <h3 align="center">🚀 Passionate developer </h3>
 <h3 align="center">💻 Creating innovative solutions </h3>
 <h3 align="center">🌟 Contributing to the open-source community </h3>
