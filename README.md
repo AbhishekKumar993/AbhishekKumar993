@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from
 <br>Indian Institute of Information Technology Una(H.P) </h3>
-<h3 align="center">🚀 Passionate developer
-<br>
-<h3 align="center">💻 Creating innovative solutions
-<br>
-<h3 align="center">🌟 Contributing to the open-source community
-<br>
-<h3 align="center">📚 Enthusiastic about learning
-<br>
-<h3 align="center">🤝 Collaborating with fellow developers
-<br>
-<h3 align="center">🔗 #OpenSource #CodeCrafting #Innovation
-like this 
-<br>
+<h3 align="center">🚀 Passionate developer </h3>
+<h3 align="center">💻 Creating innovative solutions </h3>
+<h3 align="center">🌟 Contributing to the open-source community </h3>
+<h3 align="center">📚 Enthusiastic about learning </h3>
+<h3 align="center">🤝 Collaborating with fellow developers </h3>
+<h3 align="center">🔗 #OpenSource #CodeCrafting #Innovation </h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar993&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar993" /> </p>
