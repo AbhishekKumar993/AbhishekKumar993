@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">🚀 Passionate developer </h3>
-<h3 align="center">💻 Creating innovative solutions </h3>
-<h3 align="center">🌟 Contributing to the open-source community </h3>
-<h3 align="center">📚 Enthusiastic about learning </h3>
-<h3 align="center">🤝 Collaborating with fellow developers </h3>
-<h3 align="center">🔗 #OpenSource #CodeCrafting #Innovation </h3>
 
 [![An image of @abhishekkumar993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar993)](https://holopin.io/@abhishekkumar993)
 
